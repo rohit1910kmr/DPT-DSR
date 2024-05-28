@@ -7,6 +7,9 @@ Greetings to the KEENABLE Family!!!
 
 With reference to the guidelines to be followed for sharing your DPT & DSR reports on a daily basis, please adhere to the instructions below:
 
+![Screenshot from 2024-05-28 17-46-21](https://github.com/rohit1910kmr/DPT-DSR/assets/159015754/b53bc06f-7275-4823-a799-30dc9360685a)
+![Screenshot from 2024-05-28 17-47-27](https://github.com/rohit1910kmr/DPT-DSR/assets/159015754/a1cc7bf9-7c2a-4b1f-b7ef-bcc046fe0d6d)
+
 ## 1. Email Requirements
 - Everyone has to send two emails daily: one in the morning called DPT (Daily Planned Tasks) and one in the evening called DSR (Daily Status Report).
 - The subject line for the aforementioned emails will be:
