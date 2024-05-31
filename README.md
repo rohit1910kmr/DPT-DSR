@@ -36,17 +36,18 @@ With reference to the guidelines to be followed for sharing your DPT & DSR repor
 5. **Technology**
 6. **Start Date**
 7. **Planned End Date**
-8. **Status**
+8. **Actual End Date**
+9. **Status**
    - Can be only one of the following: 
      - New
      - Open
      - Stuck
      - Closed
-9. **Priority**
+10. **Priority**
    - Should be defined as P1, P2, P3, P4.
-10. **Remarks (if any)**
-11. **Sessions to be Attended**
-12. **Voluntary Activities**
+11. **Remarks (if any)**
+12. **Sessions to be Attended**
+13. **Voluntary Activities**
     - This heading will include tasks you are going to do or technologies you are going to read or learn about; anything over and above what is assigned to you.
 
 ### DSR (Daily Status Report)
@@ -62,22 +63,23 @@ With reference to the guidelines to be followed for sharing your DPT & DSR repor
 4. **Technology**
 5. **Start Date**
 6. **Planned End Date**
-7. **Status**
+7.  **Actual End Date**
+8. **Status**
    - Can be only one of the following: 
      - New
      - Open
      - Stuck
      - Closed
-8. **Priority**
+9. **Priority**
    - Should be defined as P1, P2, P3, P4. [Reference link](https://www.bu.edu/tech/files/2011/04/IM-Quick-Ref1.pdf)
-9. **Remarks (if any)**
+10. **Remarks (if any)**
    - This is your space to explain what all steps you followed to complete the task, what links you have followed, what strings you have searched on the internet, if you are stuck then where you are stuck, the issues you are facing, whether you have raised your query on allemp, the status of the query on allemp, etc.
-10. **Sessions Attended**
+11. **Sessions Attended**
     - This will help the management with:
       - Knowing where your time was spent in the day
       - Keeping track of your attendance
       - You could add interviews, if any, under this head.
-11. **Voluntary Activities**
+12. **Voluntary Activities**
     - This heading will include tasks you did or technologies you read or learned about; anything over and above what had been assigned to you.
 
 ### Ending the Report
